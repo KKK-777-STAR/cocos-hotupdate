@@ -62,7 +62,7 @@
     ]
   },
   "launch": {
-    "launchScene": "db://assets/menu.scene"
+    "launchScene": "db://assets/loading/Loading.scene"
   },
   "screen": {
     "exactFitScreen": true,
